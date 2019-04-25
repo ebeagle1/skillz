@@ -8,5 +8,5 @@ print("heres a change")
 
 num =[5,4,3,2,1]
 for i in num:
-    print(num)
+    print(i)
 print('liftoff')
