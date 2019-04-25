@@ -5,3 +5,8 @@ print("CHRISTOPHER ROBIN!!!")
 
 print("what's going on????")
 print("heres a change")
+
+num =[5,4,3,2,1]
+for i in num:
+    print(num)
+print('liftoff')
