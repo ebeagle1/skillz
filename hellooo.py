@@ -8,5 +8,5 @@ print("heres a change")
 
 num =[5,4,3,2,1]
 for i in num:
-    print(i)
+    print(str(i * 10))
 print('liftoff')
